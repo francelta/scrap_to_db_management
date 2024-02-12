@@ -28,17 +28,7 @@ import pymysql
 import random
 import urllib
 import re
-# from wordpress import API as wpAPI
 
-# wpapi = wpAPI(
-# url="https://www.pluscookingdeluxe.com/",
-# api="wp-json",
-# version='wp/v2',
-# wp_user="francisco@checkinscan.com",
-# wp_pass="Cp999666555*",
-# basic_auth = True,
-# user_auth = True,
-# )
 translator = Translator()
 
 toneIds = ["6058207530f7b1000c1c4f86", 
